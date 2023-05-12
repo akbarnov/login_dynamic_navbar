@@ -22,7 +22,7 @@
                     <div class="card-body p-0">
                         <div class="row">
                             <div class="col-lg-6 d-none d-lg-flex" style="min-height: 600px;">
-                                <div class="flex-grow-1 bg-login-image" style="background: url('assets/img/portcdp.jpg') center / cover;"></div>
+                                <div class="flex-grow-1 bg-login-image" style="background: url('assets/img/login.jpeg') center / cover;"></div>
                             </div>
                             <div class="col-lg-6">
                                 <div class="p-5">

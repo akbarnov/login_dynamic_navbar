@@ -28,9 +28,12 @@ $filemenu = $filemenu['2'];
 <body id="page-top">
     <div id="wrapper">
         <nav class="navbar navbar-dark align-items-start sidebar sidebar-dark accordion bg-gradient-primary p-0">
-            <div class="container-fluid d-flex flex-column p-0"><a class="navbar-brand d-flex justify-content-center align-items-center sidebar-brand m-0" href="#">
-                    <div><img src="assets/img/icon_bw.png" style="width: 45px;filter: brightness(0%) contrast(200%) grayscale(100%) invert(100%) saturate(0%) sepia(0%);opacity: 0.85;"></div>
-                    <div class="sidebar-brand-text mx-3"><span><span style="font-weight: normal !important;">CIKARANG</span><br>DRY PORT</span></div>
+            <div class="container-fluid d-flex flex-column p-0">
+                <a class="navbar-brand d-flex justify-content-center align-items-center sidebar-brand m-0" href="#">
+                    <div>
+                        <i class="fas fa-laugh-wink" style="font-size: 38px;"></i>
+                    </div>
+                    <div class="text-left sidebar-brand-text mx-3"><span style="font-size:13px;"><span style="font-weight: normal !important;">BENGKEL</span><br>MURAH SENYUM</span></div>
                 </a>
                 <hr class="sidebar-divider my-0" style="width: 75%;">
                 <ul class="navbar-nav text-light" id="accordionSidebar">
