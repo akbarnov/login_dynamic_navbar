@@ -2,7 +2,7 @@
         
         
     <div class="container-fluid">
-        <h3 class="text-dark mb-4">Master Customer
+        <h3 class="text-dark mb-4">Master User
             <button class="btn btn-primary btn-sm shadow float-right" type="button" data-target="#show-mastercost" data-toggle="modal" data-action="add"><i class="fa fa-plus"></i>&nbsp;Add New</button>
         </h3>
         <div class="card shadow">
